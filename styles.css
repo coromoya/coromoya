@@ -9,12 +9,7 @@ body {
   background: url('images/coromoya.png') center 30% no-repeat;
   background-size: cover;
 }
-footer1 {
-  background-color: #ffffff;
-  text-align: right;
-  font-family: 'Arial';
-}
-footer2 {
+footer {
   background-color: #ffffff;
   text-align: center;
   font-family: 'Arial';

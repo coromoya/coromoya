@@ -11,12 +11,12 @@ body {
 }
 footer1 {
   background-color: #ffffff;
-  text-align: center;
+  text-align: right;
   font-family: 'Arial';
 }
 footer2 {
   background-color: #ffffff;
-  text-align: right;
+  text-align: center;
   font-family: 'Arial';
 }
 /**** Mobile layout ****/
